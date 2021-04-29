@@ -1,0 +1,14 @@
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.exe.config
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.exe
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.pdb
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.csprojAssemblyReference.cache
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.csproj.CoreCompileInputs.cache
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.exe
+C:\Users\emrem\source\repos\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.pdb
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.exe.config
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.exe
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\bin\Debug\RestoranOneriSistemi.pdb
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.csprojAssemblyReference.cache
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.csproj.CoreCompileInputs.cache
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.exe
+C:\Users\emrem\OneDrive\Masaüstü\RestoranOneriSistemi\RestoranOneriSistemi\obj\Debug\RestoranOneriSistemi.pdb
